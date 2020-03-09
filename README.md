@@ -10,4 +10,4 @@ The Script automates the steps to sign VMware drivers on Linux host with secure 
 2. Run the script (./vmpatch).
 3. Enter a password for the MOK enrollment request.
 4. Reboot your device. A blue screen will pop up upon boot. Follow the instructions to complete the enrollment from the UEFI console.
-5. When your machine reboots, try running the virtual machine again. If it fails, repeat the process or enter in the commands one line at a time.
+5. When your machine reboots, try running the virtual machine again. If it fails, repeat the process or enter in the commands into terminal one line at a time.
